@@ -1,15 +1,22 @@
 ---
 layout: default
-title: (emacs-nyc giving a talk)
+title: (emacs-boston giving a talk)
 ---
 
 ### Wanna give a talk?
 
-Perfect, we're looking for speakers! If you have an idea for a talk that the Emacs community would enjoy, let us know! Whether you're re-implementing the elisp garbage collector or you've just got a cool workflow in Org, we'd love to hear from you. Shoot us an [email] and we'll get you scheduled!
+Perfect, we're looking for speakers! If you have an idea for a talk
+that the Emacs community would enjoy, let us know! Whether you're
+re-implementing the elisp garbage collector or you've just got a cool
+workflow in Org, we'd love to hear from you. Shoot us an [email] and
+we'll get you scheduled!
 
-If you have any particular requirements or preferences, we'll do our best to satisfy them. This should be fun!
+If you have any particular requirements or preferences, we'll do our
+best to satisfy them. This should be fun!
 
-Sometimes people are interested in giving a talk, but don't know what to talk *about.* If you're in that category, we've got a few suggestions for topics we'd love to learn about:
+Sometimes people are interested in giving a talk, but don't know what
+to talk *about.* If you're in that category, we've got a few
+suggestions for topics we'd love to learn about:
 
 * Demystifying terminal emulation: `shell` vs `term` vs `ansi-term` vs `eshell`
 * Designing and writing a color scheme
@@ -41,4 +48,4 @@ Sometimes people are interested in giving a talk, but don't know what to talk *a
 * Remote pairing with Emacs
 * CEDET
 
-[email]: mailto:admin@emacsnyc.org
+[email]: mailto:admin@emacsboston.org

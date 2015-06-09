@@ -5,22 +5,22 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title>(emacs-nyc)</title>
-  <link href="http://emacsnyc.org/atom.xml" rel="self"/>
-  <link href="http://emacsnyc.org/"/>
+  <title>(emacs-boston)</title>
+  <link href="http://emacsboston.org/atom.xml" rel="self"/>
+  <link href="http://emacsboston.org/"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>http://emacsnyc.org/</id>
+  <id>http://emacsboston.org/</id>
   <author>
-    <name>(emacs-nyc)</name>
-    <email>admin@emacsnyc.org</email>
+    <name>(emacs-boston)</name>
+    <email>admin@emacsboston.org</email>
   </author>
 
   {% for post in site.posts %}
   <entry>
     <title type="html">{{ post.title | xml_escape }}</title>
-    <link href="http://emacsnyc.org{{ post.url }}"/>
+    <link href="http://emacsboston.org{{ post.url }}"/>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
-    <id>http://emacsnyc.org{{ post.id }}</id>
+    <id>http://emacsboston.org{{ post.id }}</id>
     <content type="html">{{ post.content | xml_escape }}</content>
   </entry>
   {% endfor %}

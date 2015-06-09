@@ -3,13 +3,6 @@ layout: default
 title: Links
 ---
 
-Other NYC Meetups You Might Like
---------------------------------
-
-- [LispNYC](http://www.lispnyc.org/)
-- [NYLUG](http://nylug.org/home/index.shtml)
-- [NYC\*BUG](http://www.nycbug.org/)
-
 Some Sites We Like
 ------------------
 

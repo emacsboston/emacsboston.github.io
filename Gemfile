@@ -1,5 +1,5 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'mr_poole'
+gem "mr_poole"
 
-gem 'github-pages'
+gem "github-pages"
