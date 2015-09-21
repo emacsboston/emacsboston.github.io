@@ -26,5 +26,5 @@ I'm [Harry Schwartz], a developer and Emacs enthusiast from
 
 [videos for download]: /videos.html
 [meetup.com group]: http://www.meetup.com/Boston-Emacs-Meetup/
-[Harry]: http://harryrschwartz.com
+[Harry Schwartz]: http://harryrschwartz.com
 [thoughtbot]: http://thoughtbot.com
