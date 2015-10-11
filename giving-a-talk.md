@@ -8,11 +8,13 @@ title: (emacs-boston giving a talk)
 Perfect, we're looking for speakers! If you have an idea for a talk
 that the Emacs community would enjoy, let us know! Whether you're
 re-implementing the elisp garbage collector or you've just got a cool
-workflow in Org, we'd love to hear from you. Shoot us an [email] and
-we'll get you scheduled!
+workflow in Org, we'd love to hear from you.
 
-If you have any particular requirements or preferences, we'll do our
-best to satisfy them. This should be fun!
+We've got a little [speakers' guide] that we've assembled to help you
+prepare your talk and to help you prepare your machine for
+screencasting. Please give it a read! If you have any particular
+requirements or preferences, we'll do our best to satisfy them. This
+should be fun!
 
 Sometimes people are interested in giving a talk, but don't know what
 to talk *about.* If you're in that category, we've got a few
@@ -48,4 +50,4 @@ suggestions for topics we'd love to learn about:
 * Remote pairing with Emacs
 * CEDET
 
-[email]: mailto:admin@emacsboston.org
+[speakers' guide]: /speakers-guide.html

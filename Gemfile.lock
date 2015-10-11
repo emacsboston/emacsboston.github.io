@@ -62,3 +62,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   mr_poole
+
+BUNDLED WITH
+   1.10.0.rc
