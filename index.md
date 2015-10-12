@@ -17,6 +17,8 @@ Announcements of new meetings and talk descriptions are posted on our
 [meetup.com group]. We also cross-post them here on our blog, if you
 prefer RSS and/or don't want to get a meetup.com account.
 
+We follow a [code of conduct].
+
 The group is sponsored by [thoughtbot], which provides the food, beer,
 and space.
 
@@ -28,6 +30,7 @@ may look suspiciously familiar.
 
 [videos for download]: /videos.html
 [meetup.com group]: http://www.meetup.com/Boston-Emacs-Meetup/
-[Harry Schwartz]: http://harryrschwartz.com
+[code of conduct]: /code-of-conduct.html
 [thoughtbot]: http://thoughtbot.com
+[Harry Schwartz]: http://harryrschwartz.com
 [EmacsNYC]: http://emacsnyc.com
