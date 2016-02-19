@@ -5,17 +5,8 @@ title: (emacs-boston videos)
 
 ### Videos
 
-We record our talks and make them available here. You can watch them
-through YouTube (which we appreciate for bandwidth reasons) or you can
-download a copy for offline use. Enjoy!
-
-<ul>
-  {% for post in site.posts %}
-    {% if post.layout == "video" %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>
+We haven't recorded any videos yet, but once we do (which we will shortly!),
+this is where they'll be!
 
 ---
 
