@@ -16,5 +16,9 @@ frameborder="0" allowfullscreen></iframe>
 > functions. I currently manage about 5 years of my own financial data with
 > Ledger, and I plan to continue for many years to come!
 
+You can download Austin's slides as an [org document] or a [pdf].
+
 [Austin Walker]: https://github.com/awalker4
 [Ledger]: http://ledger-cli.org/
+[org document]: https://github.com/awalker4/ledgerTalk2016/blob/master/ledgerTalk.org
+[pdf]: https://github.com/awalker4/ledgerTalk2016/blob/master/ledgerTalk2016.pdf
