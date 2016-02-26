@@ -18,6 +18,9 @@ frameborder="0" allowfullscreen></iframe>
 
 You can download Austin's slides as an [org document] or a [pdf].
 
+[WebM (94.4 MB)](https://s3.amazonaws.com/emacsboston/videos/conquering-your-finances-with-emacs-and-ledger.webm) |
+[MP4 (465 MB)](https://s3.amazonaws.com/emacsboston/videos/conquering-your-finances-with-emacs-and-ledger.mp4)
+
 [Austin Walker]: https://github.com/awalker4
 [Ledger]: http://ledger-cli.org/
 [org document]: https://github.com/awalker4/ledgerTalk2016/blob/master/ledgerTalk.org
