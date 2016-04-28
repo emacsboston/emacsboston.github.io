@@ -23,6 +23,9 @@ frameborder="0" allowfullscreen></iframe>
 This was mostly a demo, so there aren't any slides, but [Harry's Org-mode configuration]
 is public.
 
+[WebM (85.7 MB)](https://s3.amazonaws.com/emacsboston/videos/getting-started-with-org-mode.webm) |
+[MP4 (365.2 MB)](https://s3.amazonaws.com/emacsboston/videos/getting-started-with-org-mode.mp4)
+
 [Harry Schwartz]: http://harryrschwartz.com/
 [Org mode]: http://orgmode.org/
 [Harry's Org-mode configuration]: https://github.com/hrs/dotfiles/blob/master/emacs.d/configuration.org#publishing-and-task-management-with-org-mode
