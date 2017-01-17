@@ -8,8 +8,8 @@ scheduled: 2016-01-18 18:30
 {% include time.html %}
 {% include location_thoughtbot.html %}
 
-[Aaron Bello] will be speaking about publishing books, articles, and slides from
-Emacs:
+[Aaron Bello][] will be speaking about publishing books, articles, and slides
+from Emacs:
 
 > I use Emacs for almost everything on my computer, including reading email,
 > compiling programs, twitter, blogging, IRC chat, my agenda, and performing a

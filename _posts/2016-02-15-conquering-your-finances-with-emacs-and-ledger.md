@@ -8,10 +8,10 @@ scheduled: 2016-02-15 18:30
 {% include time.html %}
 {% include location_thoughtbot.html %}
 
-[Austin Walker] will be speaking about managing your financial data with ledger
-and Emacs:
+[Austin Walker][] will be speaking about managing your financial data with
+ledger and Emacs:
 
-> [Ledger] is a command line accounting tool for Linux, Mac, and Windows.
+> [Ledger][] is a command line accounting tool for Linux, Mac, and Windows.
 > Transactions are stored in a simple text format, so your data is available
 > wherever you can use a text editor. My editor of choice is Emacs using
 > ledger-mode, which offers autocompletion for account names and other useful

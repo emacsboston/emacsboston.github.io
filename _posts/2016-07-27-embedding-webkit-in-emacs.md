@@ -7,7 +7,7 @@ date: 2016-05-16
 <iframe width="640" height="360" src="//www.youtube.com/embed/J2YdjpWJJHs"
 frameborder="0" allowfullscreen></iframe>
 
-[Aaron Conole] spoke about embedding webkit in Emacs:
+[Aaron Conole][] spoke about embedding webkit in Emacs:
 
 > In this talk we will cover the XWidgets work that has been merged into Emacs
 > master. We'll go over the build options and dependencies to enable XWidgets,

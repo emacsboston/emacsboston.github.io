@@ -8,7 +8,7 @@ scheduled: 2016-05-16 18:30
 {% include time.html %}
 {% include location_thoughtbot.html %}
 
-[Aaron Conole] will be speaking about embedding webkit in Emacs:
+[Aaron Conole][] will be speaking about embedding webkit in Emacs:
 
 > In this talk we will cover the XWidgets work that has been merged into Emacs
 > master. We'll go over the build options and dependencies to enable XWidgets,

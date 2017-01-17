@@ -8,6 +8,6 @@ We're the Emacs meetup in Boston!
 
 ...or we will be, just as soon as we get the first few talks lined up.
 
-Stay tuned, spread the word, and consider [giving a talk]!
+Stay tuned, spread the word, and consider [giving a talk][]!
 
 [giving a talk]: /giving-a-talk.html

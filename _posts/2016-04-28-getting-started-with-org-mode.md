@@ -7,7 +7,7 @@ date: 2016-03-21
 <iframe width="640" height="360" src="//www.youtube.com/embed/SzA2YODtgK4"
 frameborder="0" allowfullscreen></iframe>
 
-[Harry Schwartz] demonstrates some of the nifty features of [Org mode]:
+[Harry Schwartz][] demonstrates some of the nifty features of [Org mode][]:
 
 > Org mode is an outliner, markup language, task manager, calendar, contact
 > manager, and who-knows-what-else. I use it to write documents and
@@ -20,8 +20,8 @@ frameborder="0" allowfullscreen></iframe>
 > can do, and showing how you, too, can become pleasantly obsessed with a wacky,
 > overgrown outlining tool.
 
-This was mostly a demo, so there aren't any slides, but [Harry's Org-mode configuration]
-is public.
+This was mostly a demo, so there aren't any slides, but
+[Harry's Org-mode configuration][] is public.
 
 [WebM (85.7 MB)](https://s3.amazonaws.com/emacsboston/videos/getting-started-with-org-mode.webm) |
 [MP4 (365.2 MB)](https://s3.amazonaws.com/emacsboston/videos/getting-started-with-org-mode.mp4)

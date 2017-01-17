@@ -8,7 +8,8 @@ scheduled: 2016-03-21 18:30
 {% include time.html %}
 {% include location_thoughtbot.html %}
 
-[Harry Schwartz] will be demonstrating some of the nifty features of [Org mode]:
+[Harry Schwartz][] will be demonstrating some of the nifty features of
+[Org mode][]:
 
 > Org mode is an outliner, markup language, task manager, calendar, contact
 > manager, and who-knows-what-else. I use it to write documents and
